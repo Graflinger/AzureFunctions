@@ -1,5 +1,5 @@
 # AzureFunctions
-Experiment with Azure functions
+Experimenting with Azure functions
 
 
 # HttpTrigger
